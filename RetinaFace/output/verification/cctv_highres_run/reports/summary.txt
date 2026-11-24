@@ -1,0 +1,8 @@
+Total images processed: 1
+Total faces detected: 89
+Very small faces (under 32 px in either box dimension): 71
+Images with no detected faces: 0
+Video total sampled frames: 68
+Video raw detections: 268
+Video filtered detections: 88
+Video saved crops: 88

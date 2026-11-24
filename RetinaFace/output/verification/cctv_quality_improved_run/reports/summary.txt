@@ -1,0 +1,13 @@
+Total images processed: 1
+Total faces detected: 269
+Very small faces (under 32 px in either box dimension): 251
+Images with no detected faces: 0
+Face quality flags:
+- alignment_unavailable: 5
+- low_contrast: 7
+- small_face: 251
+- underexposed: 10
+Video total sampled frames: 68
+Video raw detections: 268
+Video filtered detections: 268
+Video saved crops: 268

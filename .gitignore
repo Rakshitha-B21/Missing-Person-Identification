@@ -1,0 +1,33 @@
+
+# Dataset
+dataset/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.onnx
+*.h5
+*.ckpt
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Personal images and test gallery
+query_person.jpeg
+test_gallery/
+
+# Generated results and CCTV outputs
+final_cctv_results/
+results/
+results_test2/
+
+# Environment secrets
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db

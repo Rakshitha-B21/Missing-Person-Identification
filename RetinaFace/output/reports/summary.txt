@@ -1,0 +1,7 @@
+Total images processed: 1
+Total faces detected: 3155
+Images with no detected faces: 0
+Video total sampled frames: 72
+Video raw detections: 3452
+Video filtered detections: 3154
+Video saved crops: 3154
